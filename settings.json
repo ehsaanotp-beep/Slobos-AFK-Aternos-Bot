@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Ehsaan's AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Ehsaan's AFK Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "dihgang-oqDH.aternos.me",
+    "port": 62960,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Hazim & NetanYahya Diddles At Midnight",
+        "Ehsaan Is A Sigma Alpha Lion King!",
+        "I Wish To Be As Tuff & Sigma Like Mohammed Ehsaan Basheer!"
       ]
     },
     "chat-log": true,
