@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dihgang-oqDH.aternos.me:62960",
+    "ip": "dihgang-oqDH.aternos.me",
     "port": 62960,
     "version": "",
     "try-creative": false
